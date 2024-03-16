@@ -55,6 +55,10 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi.io-icon.svg" alt="FastAPI" width="40" height="40"/>
 </a>
 
+<a href="https://worldvectorlogo.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi.io-icon.svg" alt="FastAPI" width="40" height="40"/>
+</a>
+
 
 
 </p>
