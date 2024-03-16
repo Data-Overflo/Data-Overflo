@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </a>
 
 <a href="https://worldvectorlogo.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi.io-icon.svg" alt="FastAPI" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/fastapi/fastapi.svg" alt="FastAPI" width="40" height="40"/>
 </a>
 
 
