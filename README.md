@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center"> Welcome to my GitHub page!. I'm a Data Scientist driven, by a passion for crafting innovative and high-quality software solutions and using technology to solve real-world problems.</h3>
-<p>From Data Analysis and Machine Learning, DevOps to Web Development and Automation</p>>
+<p align="center"> Welcome to my GitHub page!. I'm a Data Scientist driven, by a passion for crafting innovative and high-quality software solutions and using technology to solve real-world problems.</p>
+<p>From Data Analysis and Machine Learning, DevOps to Web Development and Automation</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Data-Overflo&label=Profile%20views&color=0e75b6&style=flat" alt="Data-Overflo" /> </p>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/hasibul-hasan-shuvo/hasibul-hasan-shuvo/main/images/coding-boy.gif">
